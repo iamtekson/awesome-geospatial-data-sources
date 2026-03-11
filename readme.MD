@@ -55,9 +55,13 @@ Below are the major sources of open geospatial data download sites. If you know 
   The Humanitarian Data Exchange (HDX) is an open platform for sharing data across crises and organizations.  
   **Data:** .shp, .tif, .csv, .xls, .pdf
 
-- **[LandsatLook](https://landsatlook.usgs.gov/explore)**  
-  USGS portal to download and explore Landsat-related datasets.  
+- **[LandsatLook](https://landsatlook.usgs.gov/explore)**
+  USGS portal to download and explore Landsat-related datasets.
   **Data:** Landsat (.tiff)
+
+- **[LYRASENSE](https://lyrasense.com)**
+  Unified access to 800+ geospatial data sources (90+ PB) with an agentic notebook for satellite data analysis.
+  **Data:** Satellite imagery, vector data, climate data via Google Earth Engine integration
 
 - **[National Geospatial-Intelligence Agency (NGA) GEOnet Names Server (GNS)](https://geonames.nga.mil/geonames/GNSHome/index.html)**
   Use the Geographic Names Search Application to query the GNS database. Users can search, discover, view, and download geographic names from around the world. Search options allow for selections by name, country, administrative divisions, feature/name characteristics, and spatial filtering.
