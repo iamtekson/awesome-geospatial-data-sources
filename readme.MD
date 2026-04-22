@@ -10,6 +10,10 @@ Below are the major sources of open geospatial data download sites. If you know 
   This is a demo site for CKAN, the leading Open Data portal software. Data hosted on this site might be deleted at any time!  
   **Data:** .geojson, kml, .geotiff, .shp, .csv
 
+- **[Crime Brasil](https://crimebrasil.com.br)**  
+  Brazilian crime-data platform with geocoded incidents from state police sources. Neighborhood-level (2.99M incidents, 79,024 neighborhoods) in Rio Grande do Sul, municipality-level for Minas Gerais and Rio de Janeiro, federal highway accidents (PRF DATATRAN) for all 27 states.  
+  **Data:** GeoJSON, CSV, Parquet, REST API (JSON)
+
 - **[data.gov.au](https://data.gov.au/)**  
   Data.gov.au is the central source of Australian open government data. Anyone can access the anonymized public data published by federal, state, and local government agencies.  
   **Data:** csv, kml, shp, shapefile, xls, MapInfo, wms, wfs, csv, pGDB, tab, dat, misc, ArcGIS-grid, %grid%, %dat%, %tab%, %misc%
