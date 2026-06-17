@@ -79,6 +79,10 @@ Below are the major sources of open geospatial data download sites. If you know 
   Provides a portal to high spatial resolution topographic data and tools.  
   **Data:** point cloud, DEM (.tif), USGS 3DEP
 
+- **[OpenWaterAtlas Spot–Climate–Species–Routes Dataset](https://openwateratlas.com/en/datasets/)**  
+  An integrated open dataset joining 2,928 dive, kite, surf and freedive spots to per-spot daily climate aggregates (Open-Meteo + ERA5), 112,548 OBIS + GBIF marine species observations within 5 km, and the 34,876-route OpenFlights direct-route airline graph. v1.0.0 on Zenodo, CC-BY 4.0, DOI 10.5281/zenodo.20668393.  
+  **Data:** .csv (Zenodo, Kaggle), .parquet (HuggingFace)
+
 - **[OS Data Hub](https://osdatahub.os.uk/downloads/open)**
   Great Britain’s Geospatial Data platform. Supports APIs and UI to download the dataset.
   **Data:** .shp, .geopackage, .tiff
