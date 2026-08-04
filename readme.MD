@@ -10,6 +10,10 @@ Below are the major sources of open geospatial data download sites. If you know 
   This is a demo site for CKAN, the leading Open Data portal software. Data hosted on this site might be deleted at any time!  
   **Data:** .geojson, kml, .geotiff, .shp, .csv
 
+- **[China 5A Scenic Areas](https://github.com/tuansuwu/china-5a-scenic-areas)**  
+  All 373 National 5A Scenic Areas in China — the top tier of the national tourism rating system — across 31 provinces and regions. Chinese and English names, pinyin, province, city, WGS 84 coordinates, and a per-record field documenting whether each coordinate came from Chinese Wikipedia, OpenStreetMap, Wikidata or manual approximation. CC BY-SA 4.0, no registration required.  
+  **Data:** CSV, JSON
+
 - **[Crime Brasil](https://crimebrasil.com.br)**  
   Brazilian crime-data platform with geocoded incidents from state police sources. Neighborhood-level (2.99M incidents, 79,024 neighborhoods) in Rio Grande do Sul, municipality-level for Minas Gerais and Rio de Janeiro, federal highway accidents (PRF DATATRAN) for all 27 states.  
   **Data:** GeoJSON, CSV, Parquet, REST API (JSON)
