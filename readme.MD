@@ -139,6 +139,12 @@ Below are the major sources of open geospatial data download sites. If you know 
   WRI has long been committed to providing open access to reliable data for actionable change. In support of that mission, WRI has worked with dozens of partners to build a suite of data products that take data from across the institute and around the world to break down siloes and enable transparent decision making.
   **Data:** Environmental and socio-economic data (tiff)
 
+### Geospatial APIs and Services
+
+- **[emem](https://emem.dev)** ([GitHub](https://github.com/Vortx-AI/emem))
+  Public MCP/HTTP service for signed geospatial facts and receipt-backed place queries for AI agents.
+  **Data:** Elevation, land cover, surface water, vegetation, built-up context
+
 ### References
 
 1. [https://freegisdata.rtwilson.com/](https://freegisdata.rtwilson.com/)
