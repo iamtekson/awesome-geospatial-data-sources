@@ -67,6 +67,10 @@ Below are the major sources of open geospatial data download sites. If you know 
   USGS portal to download and explore Landsat-related datasets.
   **Data:** Landsat (.tiff)
 
+- **[Lifemap](https://lifemap.org.uk)**  
+  Life expectancy and healthy life expectancy for every UK council from the Office for National Statistics, with confidence intervals and trends. Each row carries the ONS area code, so it joins straight onto ONS boundary files.  
+  **Data:** .csv, .json
+
 - **[LYRASENSE](https://lyrasense.com)**
   Unified access to 800+ geospatial data sources (90+ PB) with an agentic notebook for satellite data analysis.
   **Data:** Satellite imagery, vector data, climate data via Google Earth Engine integration
