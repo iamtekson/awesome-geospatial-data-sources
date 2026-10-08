@@ -10,6 +10,9 @@ Below are the major sources of open geospatial data download sites. If you know 
   This is a demo site for CKAN, the leading Open Data portal software. Data hosted on this site might be deleted at any time!  
   **Data:** .geojson, kml, .geotiff, .shp, .csv
 
+- **[ADSBiq Daily Aircraft History](https://adsbiq.com/api/other/parquet)**  
+  Worldwide community-sourced ADS-B aircraft positions and state changes, published daily as compressed Parquet with checksums, schema documentation, a sample, and Data Package metadata under ODbL-1.0.  
+  **Data:** Parquet
 - **[China 5A Scenic Areas](https://github.com/tuansuwu/china-5a-scenic-areas)**  
   All 373 National 5A Scenic Areas in China — the top tier of the national tourism rating system — across 31 provinces and regions. Chinese and English names, pinyin, province, city, WGS 84 coordinates, and a per-record field documenting whether each coordinate came from Chinese Wikipedia, OpenStreetMap, Wikidata or manual approximation. CC BY-SA 4.0, no registration required.  
   **Data:** CSV, JSON
