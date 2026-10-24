@@ -145,6 +145,10 @@ Below are the major sources of open geospatial data download sites. If you know 
 
 ### Geospatial APIs and Services
 
+- **[AI Agent by TerraLab](https://terra-lab.ai/ai-agent)** ([GitHub](https://github.com/TerraLabAI/QGIS_AI-Agent))
+  QGIS plugin that finds open data for you from plain-English requests, through 73 connectors (OpenStreetMap, Copernicus, NASA, USGS, IGN, Overture, Planetary Computer and others).
+  **Data:** Vector and raster open data loaded into the open QGIS project, each dataset with its licence
+
 - **[DC Hub](https://dchub.cloud)** ([GitHub](https://github.com/azmartone67/dchub-mcp-server))
   DC Hub is the live data layer for data-center site selection. Its Data Center Power Index (DCPI) is a daily score of where data centers can get grid power, across 300+ markets. Remote MCP server with 94 tools at `https://dchub.cloud/mcp`, plus a REST API; previews need no key.
   **Data:** Data-center facilities and markets, power grid and interconnection queues, gas and fiber infrastructure (JSON via MCP/REST)
