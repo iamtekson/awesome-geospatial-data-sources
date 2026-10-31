@@ -34,6 +34,10 @@ Below are the major sources of open geospatial data download sites. If you know 
   It is the portal of free GIS data from the United Nations. The focus of GeoNetwork is to improve global sustainable development, such as global agriculture, food security, and fisheries.  
   **Data:** agriculture, fisheries, land resource GIS data
 
+- **[Flock Locations](https://flocklocations.com/data)**  
+  Community-sourced locations of Flock Safety automated license plate reader (ALPR) cameras across the United States. Free download, CC BY 4.0.  
+  **Data:** .csv, .geojson
+
 - **[GADM](https://gadm.org/data.html)**  
   Global administrative boundaries, with extensive attribute sets. Covers countries and up to four levels of internal administrative boundaries (states, departments, counties, etc.).  
   **Data:** administrative boundary (.shp, .rds, .kml, geopackage)
