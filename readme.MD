@@ -157,6 +157,10 @@ Below are the major sources of open geospatial data download sites. If you know 
   Public MCP/HTTP service for signed geospatial facts and receipt-backed place queries for AI agents.
   **Data:** Elevation, land cover, surface water, vegetation, built-up context
 
+- **[Lake Level](https://lakelevelnow.com)** ([GitHub](https://github.com/theluckystrike/lake-level-mcp))
+  MCP server for live US lake and reservoir levels, read at call time from USGS, USACE, CDEC, Reclamation and TWDB gauges. Covers 44 lakes in 12 states, including Lake Mead, Lake Powell, Lake Travis, Shasta, Oroville and Kentucky Lake. No API key. Tools: `search_lakes`, `get_lake_level`, `get_lake_history`, `compare_lakes`.
+  **Data:** Current elevation, change over 24 hours, 7 days and 30 days, feet below full pool, the operator seasonal target where published, percent full where the agency publishes storage, daily or weekly history up to 365 days, gauge id and source URL (JSON via MCP)
+
 ### References
 
 1. [https://freegisdata.rtwilson.com/](https://freegisdata.rtwilson.com/)
