@@ -157,6 +157,10 @@ Below are the major sources of open geospatial data download sites. If you know 
   DC Hub is the live data layer for data-center site selection. Its Data Center Power Index (DCPI) is a daily score of where data centers can get grid power, across 300+ markets. Remote MCP server with 94 tools at `https://dchub.cloud/mcp`, plus a REST API; previews need no key.
   **Data:** Data-center facilities and markets, power grid and interconnection queues, gas and fiber infrastructure (JSON via MCP/REST)
 
+- **[No Stairs Please](https://nostairsplease.com/mcp)**
+  Public live-music venue directory and remote MCP server at `https://nostairsplease.com/mcp` covering 1,700+ independent venues across the US and Canada.
+  **Data:** Venue coordinates, city/state, capacity, accessibility notes, and booking contacts (JSON via MCP)
+
 - **[emem](https://emem.dev)** ([GitHub](https://github.com/Vortx-AI/emem))
   Public MCP/HTTP service for signed geospatial facts and receipt-backed place queries for AI agents.
   **Data:** Elevation, land cover, surface water, vegetation, built-up context
