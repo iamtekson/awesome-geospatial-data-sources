@@ -165,6 +165,10 @@ Below are the major sources of open geospatial data download sites. If you know 
   MCP server for live US lake and reservoir levels, read at call time from USGS, USACE, CDEC, Reclamation and TWDB gauges. Covers 44 lakes in 12 states, including Lake Mead, Lake Powell, Lake Travis, Shasta, Oroville and Kentucky Lake. No API key. Tools: `search_lakes`, `get_lake_level`, `get_lake_history`, `compare_lakes`.
   **Data:** Current elevation, change over 24 hours, 7 days and 30 days, feet below full pool, the operator seasonal target where published, percent full where the agency publishes storage, daily or weekly history up to 365 days, gauge id and source URL (JSON via MCP)
 
+- **[No Stairs Please](https://nostairsplease.com)** ([MCP](https://nostairsplease.com/mcp))
+  Live-music venue directory and remote MCP server covering small stages across all 50 US states, with geographic coordinates, capacity, booking contacts, and stage accessibility.
+  **Data:** Venue locations, state/city coverage, capacity, booking contacts, and accessibility notes (JSON via MCP)
+
 ### References
 
 1. [https://freegisdata.rtwilson.com/](https://freegisdata.rtwilson.com/)
