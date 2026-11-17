@@ -15,6 +15,10 @@ Below are the major sources of open geospatial data download sites. If you know 
   **Data:** CSV, JSON
 
 - **[Crime Brasil](https://crimebrasil.com.br)**  
+- **[Mapbase](https://mapbase.dev/)**  
+  Location registry API for official locations, custom zones, hierarchy, geometry, and SEO-ready location context.  
+  **Data:** JSON REST API, TypeScript SDK
+
   Brazilian crime-data platform with geocoded incidents from state police sources. Neighborhood-level (2.99M incidents, 79,024 neighborhoods) in Rio Grande do Sul, municipality-level for Minas Gerais and Rio de Janeiro, federal highway accidents (PRF DATATRAN) for all 27 states.  
   **Data:** GeoJSON, CSV, Parquet, REST API (JSON)
 
