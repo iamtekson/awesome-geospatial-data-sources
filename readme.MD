@@ -161,9 +161,17 @@ Below are the major sources of open geospatial data download sites. If you know 
   Public MCP/HTTP service for signed geospatial facts and receipt-backed place queries for AI agents.
   **Data:** Elevation, land cover, surface water, vegetation, built-up context
 
+- **[Flood Zone Lookup (FEMA flood map)](https://github.com/theluckystrike/flood-zone-lookup-fema-flood-map-mcp)**
+  MCP server that returns the FEMA flood zone for any US street address or latitude/longitude, read at call time from the FEMA National Flood Hazard Layer (addresses geocoded with the U.S. Census Bureau geocoder). No API key. Tools: `flood_zone_lookup`, `flood_zone_nearby`, `flood_zone_explain`.
+  **Data:** Flood zone code, Special Flood Hazard Area yes or no, base flood elevation or depth, FIRM panel, LOMRs, distance to the nearest high-risk and moderate-risk zones (JSON via MCP)
+
 - **[Lake Level](https://lakelevelnow.com)** ([GitHub](https://github.com/theluckystrike/lake-level-mcp))
   MCP server for live US lake and reservoir levels, read at call time from USGS, USACE, CDEC, Reclamation and TWDB gauges. Covers 44 lakes in 12 states, including Lake Mead, Lake Powell, Lake Travis, Shasta, Oroville and Kentucky Lake. No API key. Tools: `search_lakes`, `get_lake_level`, `get_lake_history`, `compare_lakes`.
   **Data:** Current elevation, change over 24 hours, 7 days and 30 days, feet below full pool, the operator seasonal target where published, percent full where the agency publishes storage, daily or weekly history up to 365 days, gauge id and source URL (JSON via MCP)
+
+- **[Last Frost Date and Hardiness Zone](https://github.com/theluckystrike/last-frost-date-hardiness-zone-mcp)**
+  MCP server for the USDA 2023 Plant Hardiness Zone Map by ZIP code and frost dates computed from 30 seasons of Open-Meteo daily history at the ZIP or place location. No API key. Tools: `hardiness_zone`, `frost_dates`, `frost_forecast`, `planting_calendar`.
+  **Data:** USDA hardiness zone and its average coldest winter temperature range, median and 1-in-10 last spring and first fall frost dates, growing season length, frost forecast (JSON via MCP)
 
 ### References
 
