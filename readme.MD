@@ -165,6 +165,10 @@ Below are the major sources of open geospatial data download sites. If you know 
   MCP server for live US lake and reservoir levels, read at call time from USGS, USACE, CDEC, Reclamation and TWDB gauges. Covers 44 lakes in 12 states, including Lake Mead, Lake Powell, Lake Travis, Shasta, Oroville and Kentucky Lake. No API key. Tools: `search_lakes`, `get_lake_level`, `get_lake_history`, `compare_lakes`.
   **Data:** Current elevation, change over 24 hours, 7 days and 30 days, feet below full pool, the operator seasonal target where published, percent full where the agency publishes storage, daily or weekly history up to 365 days, gauge id and source URL (JSON via MCP)
 
+- **[Geoscience Data Portals](https://github.com/XploraHub/geoscience-data-portals)**
+  A catalogue of government geoscience portals (geological surveys and mines departments) in Australia, Canada, the US, the UK, Ireland, the Nordics, Saudi Arabia and India. Each entry gives what the portal holds, how to get the data, the licence as stated and when it was last checked. Includes QGIS connection files for the portals' WMS and WFS services. CC BY 4.0.
+  **Data:** CSV, GeoJSON, QGIS XML, WMS, WFS
+
 ### References
 
 1. [https://freegisdata.rtwilson.com/](https://freegisdata.rtwilson.com/)
