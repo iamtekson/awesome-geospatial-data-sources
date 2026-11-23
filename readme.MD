@@ -6,6 +6,10 @@ Below are the major sources of open geospatial data download sites. If you know 
   The Copernicus Data Space Ecosystem provides access to Earth observation data from the Copernicus Sentinel satellites. Available products: Sentinel-1, Sentinel-2, Sentinel-3, Sentinel-5P.  
   **Data:** Sentinel (.tiff)
 
+- **[GeoRank City Climate Normals](https://georank.place)**  
+  Monthly climate normals for 478 world cities with coordinates: sunshine hours, mean and daytime-high temperature, rainfall, and outdoor-comfort hours (apparent temperature from temperature, humidity and wind). Sunshine bias-corrected against 219 published station normals. CC BY 4.0, no registration, DOI [10.5281/zenodo.21976372](https://doi.org/10.5281/zenodo.21976372).  
+  **Data:** JSON
+
 - **[CKAN](https://demo.ckan.org/dataset)**  
   This is a demo site for CKAN, the leading Open Data portal software. Data hosted on this site might be deleted at any time!  
   **Data:** .geojson, kml, .geotiff, .shp, .csv
