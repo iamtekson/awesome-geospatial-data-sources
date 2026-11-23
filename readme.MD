@@ -111,6 +111,10 @@ Below are the major sources of open geospatial data download sites. If you know 
   A very detailed (50m resolution) forest map for the whole globe, created from SAR data.  
   **Data:** PSRFITS
 
+- **[Park Atlas](https://theparkatlas.com/data/)**  
+  U.S. National Park System units with designation, states, 2025 recreation visits, entrance fees and coordinates, built from National Park Service data and rebuilt nightly. CC0.  
+  **Data:** .csv
+
 - **[SASPlanet](https://gisenglish.geojamal.com/2018/06/download-sas-planet-nightly-all.html)**  
   SASPlanet is a program designed for viewing and downloading high-resolution satellite imagery and conventional maps submitted by such services as Google Maps, DigitalGlobe, Kosmosnimki, Yandex.Maps, Yahoo! Maps, VirtualEarth, Gurtam, OpenStreetMap, eAtlas, Genshtab maps, iPhone maps, Navitel maps, Bing Maps (Bird's Eye), etc.  
   **Data:** high-resolution satellite imagery (.kmz, .png, .jpeg, .geotiff)
@@ -134,6 +138,10 @@ Below are the major sources of open geospatial data download sites. If you know 
 - **[USGS Earth Explorer](https://earthexplorer.usgs.gov/)**  
   For satellite and aerial imagery, the USGS Earth Explorer is one of the largest free sources of data.  
   **Data:** Landsat (.tiff), Sentinel (.tiff), DEM (.tiff), point cloud (.tiff), aerial imagery
+
+- **[Wilderness Atlas](https://wildernessatlas.com/data/)**  
+  1,523 U.S. national wildlife refuges, wilderness areas, national forests and BLM conservation units with agency, acreage and a point inside each boundary. CC0.  
+  **Data:** .csv, .geojson
 
 - **[World Borders Dataset](http://thematicmapping.org/downloads/world_borders.php)**  
   World country borders with attributes including country codes (FIPS, ISO, etc.), area, and populations.  
